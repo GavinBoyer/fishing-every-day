@@ -1,9 +1,9 @@
 ---
-title: Template for Knowledge Base Docs Websites
+title: Fishing Every Day
 ---
-## The index page
+## Fishing Every Day
 
-This is the index page (`content/index.md`) of your knowledge base docs. It serves as the home page for your website.
+A fishing handbook for the beginner to experienced angler.
 
 ## Editing pages
 
