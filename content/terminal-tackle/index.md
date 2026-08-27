@@ -1,5 +1,5 @@
 ---
-title: A second example doc inside a folder
+title: Terminal Tackle
 ---
 This is an example doc. Docs are Markdown files inside the `content/` directory.
 

@@ -1,8 +1,13 @@
 ---
 title: Creating docs and frontmatter
 ---
-This is an example doc. Docs are Markdown files inside the `content/` directory.
-
+## Main Categories
+	-[[rods/index|Rod Types]]
+	-[[reels/index|Reel types]]
+	-[[terminal-tackle/index|Terminal Tackle]]
+	-[[angler-knots/index|Angler Knots]]
+	-[[organic-bait/index|Organic Bait]]
+	-[[artificial-bait/index|Artificial Bait]]
 ---
 
 ## Creating new docs
