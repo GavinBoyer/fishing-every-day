@@ -1,21 +1,16 @@
 ---
 title: Creating docs and frontmatter
 ---
-## Main Categories
-	-[[rods/index|Rod Types]]
-	-[[reels/index|Reel types]]
-	-[[terminal-tackle/index|Terminal Tackle]]
-	-[[angler-knots/index|Angler Knots]]
-	-[[organic-bait/index|Organic Bait]]
-	-[[artificial-bait/index|Artificial Bait]]
+
 ---
+## Main Categories
+-[[rods/index|Rod Types]]
+-[[reels/index|Reel types]]
+-[[terminal-tackle/index|Terminal Tackle]]
+-[[angler-knots/index|Angler Knots]]
+-[[organic-bait/index|Organic Bait]]
+-[[artificial-bait/index|Artificial Bait]]
 
-## Creating new docs
-
-Creating a new knowledge base doc is easy:
-
-1. Using Obsidian, Visual Studio Code, iA Writer, any text editor, or via your computer's operating system file manager, create a new file with any name and ending with the `.md` file extension.
-2. If this new file was created in the `content/` directory, then it is now a part of your knowledge base docs.
 
 ---
 ## Frontmatter/properties in docs
