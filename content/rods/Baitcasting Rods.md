@@ -7,6 +7,7 @@ title: Baitcasting Rods
 Baitcasting rods are traditionally an intermediate rod. They are designed specifically for baitcasting reels and to cast your lures more accurately. Baitcasting rods are mostly used for bass fishing, and many anglers prefer them over [[Spinning Rods]] as they offer more power and tend to be more stiff. Baitcasting rods are also referred to as casting rods, but using two names can become confusing, so this site refers to  them as baitcasting rods.
 
 >A baitcasting rod is a specialized fishing rod designed for use with a baitcasting reel. This type of rod is typically characterized by its sturdy construction, which allows greater power and precision when casting. The reel is mounted on top of the rod, enabling angler to control the line more effectively.
+>_What is a casting rod? A comprehensive guide for anglers_. Battlbox.com. (n.d.-a). https://www.battlbox.com/blogs/fishing/what-is-a-casting-rod-a-comprehensive-guide-for-anglers
 
 #### Significant Features of Baitcasting Rods
 
