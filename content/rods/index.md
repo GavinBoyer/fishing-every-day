@@ -1,8 +1,12 @@
 ---
 title: How to Pick a Rod
 ---
-This is an example doc. Docs are Markdown files inside the `content/` directory.
-
+## Types of Rods
 ---
+[[Baitcasting Rods]]
+[[Spincast Rods]]
+[[Fly Rods]]
+[[Spinning Rods]]
+[[Surf Rods]]
 
 Return to the [[Fishing Every Day]]
