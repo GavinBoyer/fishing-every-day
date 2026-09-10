@@ -1,5 +1,5 @@
 ---
-title: How to Pick a Rod
+title: Types of Rods
 ---
 ## Types of Rods
 ---
