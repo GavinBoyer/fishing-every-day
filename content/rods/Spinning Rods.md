@@ -21,7 +21,7 @@ A spinning rod is one of the most versatile pieces of equipment an angler can ow
 	4. **Bamboo**: While not typically seen when fishing, some anglers do still prefer to use bamboo poles for the traditional feel. These are much heavier but are valued more for the craftsmanship rather than the function.
 
 
-![spinning-rod-size-guide](spinning-rod-size-guide.pdf)
+![[spinning-rod-size-guide.pdf]]
 
 
 ![Man using Spinning Rod](https://tse3.mm.bing.net/th/id/OIP.Ak5z6_LgHMteX55VPbFt6AHaE8?r=0&pid=Api&h=220&P=0)Man correctly using Spinning Rod
