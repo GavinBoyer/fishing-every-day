@@ -1,5 +1,6 @@
 ---
 title: Surf Rods
+date: 9-30-2026
 ---
 # Surf Rods
 
@@ -9,9 +10,9 @@ Surf rods a specifically designed for fishing deep water from the shore, almost 
 
 #### Significant Features of Surf Rods
 
-- **Reel Placement**: Reel placement on a surf rod can get a little confusing since baitcasting, spincast, conventional, and spinning reels can all be used with different types of surf rods. Typically, surf rods will use a spinning reel which is placed on the underside, much like [[Fly Rods]].
+- **Reel Placement**: Reel placement on a surf rod can get a little confusing since [[baitcasting reels]], [[spincast reels]], [[conventional reels]], and [[spinning reels]] can all be used with different types of surf rods. Typically, surf rods will use a spinning reel which is placed on the underside, much like [[fly rods]].
 - **Guides**: Surf rods need high-quality guides on them in order to withstand the force of large game fish. They run all the way up the length of the rod and the amount of guides depends on the length of the rod. The guides are often wider near the handle and narrow towards the tip. High-quality guides will use titanium or ceramic inserts to reduce line abrasion in harsh conditions.
-- **Length**: Surf rods are notorious for being ridiculously long fishing rods. They tend to range between 9 and 15 feet long. In comparison, [[Spinning Rods]] typically range from 5.5 feet to 7.5 feet. The extra length on a surf rod is extremely important to its function which is to send the bait out as far as possible. 
+- **Length**: Surf rods are notorious for being ridiculously long fishing rods. They tend to range between 9 and 15 feet long. In comparison, [[spinning rods]] typically range from 5.5 feet to 7.5 feet. The extra length on a surf rod is extremely important to its function which is to send the bait out as far as possible. 
 >Your Perfect rod strikes a balance between distance and maneuverability. A 10-footer serves as the Swiss Army knife of surf fishing; versatile enough for most situations. Different rod action types affect sensitivity and hook-setting capabilities when targeting specific species. Surfcasting Republic. (2024, October 9). _What are surf rods? an essential guide to surf fishing gear_. https://surfcastingrepublic.com/what-are-surf-rods/
 - **Power and Action**: The power and action of surf rods are arguably the most important things to consider when picking a surf rod, as picking the incorrect size for your use will negatively affect your experience. Surf rods range from ultralight to extra-heavy. Most anglers prefer a medium-heavy to heavy for surf rods as they are the most versatile and can handler larger fish and harsher conditions. The power rating will directly affect casting performance and the incorrect power rating can decrease hook-ups. The action of course, refers to where the rod bends. Fast being at the rod tip and slow being closer to the handle.
 - **Construction Materials**: Similar to most other rods, surf rods are typically constructed of one of three materials.

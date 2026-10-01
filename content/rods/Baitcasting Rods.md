@@ -1,5 +1,6 @@
 ---
 title: Baitcasting Rods
+date: 9-30-2026
 ---
 # Baitcasting Rods
 ### What is a Baitcasting Rod?

@@ -1,5 +1,6 @@
 ---
 title: Casting Rods
+date: 9-30-2026
 ---
 # Spincast Rods
 ### What is a Spincast Rod?
