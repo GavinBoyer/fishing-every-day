@@ -17,7 +17,7 @@ Braid takes everything you know about fishing line and throws it out the window.
 
 **Cons**
 - Braid is extremely visible underwater, making it harder to get bites.
-- Somewhat difficult to tie [[knots]] with because they frequently slip.
+- Somewhat difficult to tie knots with because they frequently slip.
 - The ability to be easily cut off by a toothy fish.
 - Since it is so thin and tough, it often can dig into spools on [[../reels/index.md|reels]] and damage cheaper equipment.
 - Even though it doesn't tangle often, when it does, it normally requires cutting, and it is non-recycleable.
@@ -27,6 +27,6 @@ Braid takes everything you know about fishing line and throws it out the window.
 
 #### When to Use Braid
 
-Braid excels in low-visibility water conditions. It is also great for when you need more line than capable with that of [[fluorocarbon.md|fluoro]] or [[monofilament.md|mono]]. Often used for dropping line deep and jigging, you can also work it through thick weeds and vegetation. Typically, braid is used on [[../reels/spinning-reels.md]], but is compatible with all types of decent quality [[../reels/index.md|reels]].
+Braid excels in low-visibility water conditions. It is also great for when you need more line than capable with that of [fluoro](fluorocarbon.md) or [[monofilament.md|mono]]. Often used for dropping line deep and jigging, you can also work it through thick weeds and vegetation. Typically, braid is used on [[../reels/spinning-reels.md]], but is compatible with all types of decent quality [[../reels/index.md|reels]].
 
 ![Close up of braided fishing line](https://img.tacklewarehouse.com/watermark/rsg.php?path=/content_images/how-to/how-to-choose-line-for-bass-fishing/How_to_Choose_Line_Braid_Detail_1200x900.jpg&nw=780)
