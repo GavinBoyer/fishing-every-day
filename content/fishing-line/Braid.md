@@ -6,7 +6,7 @@ date: 9-30-2026
 
 ### What is Braid?
 
-Braid takes everything you know about fishing line and throws it out the window. It is made using multiple strands of polyethylenes such as Dacron, Spectra, and Dyneema, all weaved together to create an ultra-thin, near indestructible line. Braid is used for strong, powerful fish that would make [[monofilament]] and [[copolymer]] look like cotton candy.
+Braid takes everything you know about fishing line and throws it out the window. It is made using multiple strands of polyethylenes such as Dacron, Spectra, and Dyneema, all weaved together to create an ultra-thin, near indestructible line. Braid is used for strong, powerful fish that would make [monofilament](./monofilament.md) and [copolymer](./copolymer.md) look like cotton candy.
 
 #### Pros and Cons of Braided Line
 
