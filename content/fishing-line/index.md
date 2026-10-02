@@ -3,7 +3,7 @@ title: Fishing Line
 ---
 ## Fishing Line
 
-When picking what fishing line to use, it is important to consider the many different factors and pieces of equipment needed for each type. Fishing line comes in all shapes and sizes, from near invisible [[monofilament]] to 150lbs [[braid]], there is something that fits your needs.
+When picking what fishing line to use, it is important to consider the many different factors and pieces of equipment needed for each type. Fishing line comes in all shapes and sizes, from near invisible [[monofilament]] to 150lbs [braid](braid.md), there is something that fits your needs.
 
 ### Different Types of Fishing Line
 
