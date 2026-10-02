@@ -13,7 +13,7 @@ Copolymer is the big brother to [[monofilament]]. It is made in exactly the same
 - Lower stretch than [[monofilament]] but it maintains the strength.
 - Easy and efficient to tie knots, and cast.
 - Has an even less memory than mono.
-- More abrasion resistant than [[braid]] and still shockingly strong for its size.
+- More abrasion resistant than [[fishing-line/braid|braid]] and still shockingly strong for its size.
 
 **Cons** 
 - Copolymer does not normally float which is not inherently good or bad
