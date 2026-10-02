@@ -1,0 +1,3 @@
+exclude:
+  - quartz/docs/plugins/CustomOgImages.md
+  - quartz/docs/features/comments.md
