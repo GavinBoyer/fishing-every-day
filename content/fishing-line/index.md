@@ -8,11 +8,11 @@ When picking what fishing line to use, it is important to consider the many diff
 ### Different Types of Fishing Line
 
 There are several different types of fishing line, and each has its own pros and cons. Some are excellent for reeling in true giants, but would not get a bite from a slightly smaller, more keen fish. 
-- [[monofilament|Monofilament]]
-- [[fluorocarbon|Fluorocarbon]]
-- [[copolymer|Copolymer]]
-- [[braid|Braid]]
-- [[fly-line|Fly Line]]
+- [[monofilament]]
+- [[fluorocarbon]]
+- [[copolymer]]
+- [[braid]]
+- [[fly-line]]
 While each line is excellent at what it does, use it in the wrong way and you will find yourself in a world of problems.
 
 #### What Factors to Determine
