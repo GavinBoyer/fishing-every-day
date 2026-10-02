@@ -12,7 +12,7 @@ There are several different types of fishing line, and each has its own pros and
 - [[fluorocarbon]]
 - [[copolymer]]
 - [[braid]]
-- [[fly-line]]
+- [Fly Line](fly-line.md)
 While each line is excellent at what it does, use it in the wrong way and you will find yourself in a world of problems.
 
 #### What Factors to Determine
