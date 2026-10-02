@@ -1,20 +1,26 @@
 ---
 title: Reel Types
+date: 10-1-2026
 ---
-## The Category 02 category index page
+# Reel Types
 
-### What is this page?
+### Different Types of Reels
 
-This is an example category index page inside the knowledge base. This page is located within the `example-category-02` folder, which is located within the `content/` folder. 
+There are several different types of reels to pick from when wanting to fish. Identifying your needs, your target species, and your [rod](rods/index.md) helps you decide which reel to pick.
+- [Spincast Reel](spincast-reels.md)
+- [Spinning Reel](spinning-reels.md)
+- [Baitcasting Reel](baitcasting-reels.md)
+- [Conventional Reel](conventional-reels.md)
+- [Fly Reels](fly-reels)
 
-On your local computer, this page corresponds to the file path: `content/example-category-02/index.md`.
+Frequently, anglers will carry several different types of reels depending on the situation and water. Bass anglers are known to love [baitcasters](baitcasting-reel.md), but they also carry [spinning reels](spinning-reels.md) when using lighter weight or finesse rigs.
 
-### Naming a category page's index
+![Different types of fishing reels](https://attractivefishing.com/wp-content/uploads/2023/07/Types-of-Fishing-Reels.png)
 
-Why is this page's file name `index` (`example-category-02/index.md`) instead of **Category 02**?
+#### How to Pick a Reel:
 
-This file uses the `title` property/frontmatter to specify the category page title (e.g., `Category 02`). 
+- ==Identify what [rod type](rods/index.md) you have.== This is extremely important as different reels are not compatible with an opposing rod type. (Ex. spinning reel to spinning rod, baitcaster reel to baitcaster rod.)
+- ==Identify your target species.== If you are going after panfish, you do not need a large conventional reel. Certain species need specific gear to catch.
+- ==Identify your experience level.== While not a necessity, starting with a simpler reel, such as a [spincast](spincast-reels.md), will reduce your time untangling line and fixing gear. [Baitcasters](baitcasting-reels) are much more complex and require fine tuning and precise casting.
 
-Any text added to a category folder's `index.md` file  will be used as the descriptive text for the category page.
-
-A similar category is [[angler-knots/index| Category 01]], which also uses the `index.md` method to specify a category page title and descriptive text.
+After identifying these key factors, you can pick your reel. Next you can move on to deciding what type of [line](fishing-line/index.md) to spool up with.
