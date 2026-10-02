@@ -1,4 +1,4 @@
 ---
 title: Terminal Tackle
-date: 9-30-2026
+date: 10-2-2026
 ---

@@ -1,6 +1,6 @@
 ---
 title: Fishing Every Day
-date: 9-30-2026
+date: 10-2-2026
 ---
 # References
 

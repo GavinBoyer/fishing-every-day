@@ -1,6 +1,6 @@
 ---
 title: Hooks
-date: 9-30-2026
+date: 10-2-2026
 ---
 # Hooks
 
