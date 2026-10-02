@@ -6,13 +6,13 @@ date: 9-30-2026
 
 ### What is Fly Line?
 
-Fly line is quite an outlier within the several different [[fishing-line/index|line types]]. Instead of the line being virtually weightless and needing to put [[weights]] on; fly line is a weighted line that carries the fly, and eliminates the need for extra weight. It is used only on [[fly-rods|fly rods]] and [[fly-reels|reels]].
+Fly line is quite an outlier within the several different [[index.md|line types]]. Instead of the line being virtually weightless and needing to put [[../terminal-tackle/weights.md]] on; fly line is a weighted line that carries the fly, and eliminates the need for extra weight. It is used only on [[../rods/fly-rods.md|fly rods]] and [[../reels/fly-reels.md|reels]].
 
 >**A fly line is the weighted line that carries your fly to the target and it replaces the lure weight used in conventional fishing.** The taper, weight, and density of that line determine how far you cast, how delicately you can present your fly, and event what depth you fish. Losee, C. (2026, September 1). _Fly Lines 101: Types, Tapers & How to choose (Beginner’s guide)_. The Fly Fishing Basics. https://theflyfishingbasics.com/fly-lines-101/#google_vignette
 
 ### How Does Fly Line Work?
 
-When fishing with a traditional [[rods/index|rod]] and [[reels/index|reel]], the rod acts as a sort of lever, flinging the [[baits/index|bait]] or lures out into the water. In fly fishing, the fly line is more of a lasso; transferring energy through the line to cast the fly out. This is much more difficult than conventional fishing and requires several hours of practice before you can adequately cast.
+When fishing with a traditional [[../rods/index.md|rod]] and [[../reels/index.md|reel]], the rod acts as a sort of lever, flinging the [[../baits/index.md|bait]] or lures out into the water. In fly fishing, the fly line is more of a lasso; transferring energy through the line to cast the fly out. This is much more difficult than conventional fishing and requires several hours of practice before you can adequately cast.
 
 #### Fly Line Tapers
 
