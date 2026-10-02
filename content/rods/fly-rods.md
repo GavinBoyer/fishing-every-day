@@ -6,9 +6,9 @@ date: 9-30-2026
 
 ### What is a Fly Rod?
 
-A fly rod is meant for a specific type of fishing called fly fishing. In fly fishing you are using the weight and momentum or your line to cast instead of pushing a button or releasing a line. Fly rods are controversial within the fishing community with a lot of fly fisherman calling fishing with [[Spinning Rods]] "cheating." Fly rods tend to be much longer, skinnier, and lighter than most other rods with some [[Surf Rods]] being the exception. Fly rods use a fly reel which has no gear ratio and essentially just acts as storage for your line instead of an actual reel.
+A fly rod is meant for a specific type of fishing called fly fishing. In fly fishing you are using the weight and momentum or your line to cast instead of pushing a button or releasing a line. Fly rods are controversial within the fishing community with a lot of fly fisherman calling fishing with [[spinning-rods]] "cheating." Fly rods tend to be much longer, skinnier, and lighter than most other rods with some [[surf-rods]] being the exception. Fly rods use a fly reel which has no gear ratio and essentially just acts as storage for your line instead of an actual reel.
 
->To understand a fly rod, you must first understand the physics of the cast. In traditional fishing, using [[Spincast Rods]] or [[Baitcasting Rods]], the rod acts as a lever to throw a heavy object, like a lure or a baited hook. The fishing line is usually thin, light, and follows the weight of the lure through the air.
+>To understand a fly rod, you must first understand the physics of the cast. In traditional fishing, using [[spincast-rods]] or [[baitcasting-rods]], the rod acts as a lever to throw a heavy object, like a lure or a baited hook. The fishing line is usually thin, light, and follows the weight of the lure through the air.
 >	
 >Fly fishing reverses this dynamic. An artificial fly is often made of just a few feathers, some fur, and a hook. It weighs almost nothing. You cannot "throw" a feather thirty feet using a standard fishing rod. Instead, the fly rod is designed to cast a thick, coated fly line. The line itself provides the weight needed to load the rod.
 >_What is a fly rod_. Battlbox.com. (n.d.-b). https://www.battlbox.com/blogs/fishing/what-is-a-fly-rod-a-comprehensive-guide-for-outdoor-enthusiasts
