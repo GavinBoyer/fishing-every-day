@@ -1,8 +1,4 @@
 ---
 title: Terminal Tackle
+date: 9-30-2026
 ---
-This is an example doc. Docs are Markdown files inside the `content/` directory.
-
----
-
-Return to the [[references]]

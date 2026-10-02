@@ -28,5 +28,5 @@ While yes, organic bait means bait that naturally occurs, it does not include se
 
 #### Which Bait to Pick
 
-The only thing you really need to analyze when picking a bait is what your target species eats. If they are bottom feeders like carp, then use corn. If they are a big predator fish, use bluegill or shad. Studying your target fish and knowing their eating habits can increase your hook up chances.
+The only thing you really need to analyze when picking a bait is what your target species eats. If they are bottom feeders like carp, then use corn. If they are a big predator fish, use bluegill or shad. Studying your target fish and knowing their eating habits can increase your hook up chances. The bigger the bait you pick, the larger the [hook](hooks.md) and the stronger the [line](fishing-line) must be.
 

@@ -47,6 +47,8 @@ Over the thousands of years since artificial lures first started being used, the
 ![Different types of soft plastics](https://tse4.mm.bing.net/th/id/OIP.vMIQBJ3snK1lPkF6u-EMwQHaC1?r=0&pid=Api&h=220&P=0)
 (Pictured: Soft Plastics)
 
+>Anglers can deploy a wide range of different types of fishing lures to use when targeting their favorite fish. Whether you are searching for bass, trout, walleye, bluegill, pike, or other species, having the right fishing lure for the job can make catching that next trophy fish easier for you. _The 10 types of fishing lures (and how to use them all)_. Tackle Village. (2024, April 17). https://tacklevillage.com/types-of-fishing-lures/#jigs
+
 #### Artificial Scents and Doughs
 
 Artificial scents and doughs are exactly what they sound like. They are made to mimic what the fish like to eat. There are several different kinds of both scents and doughs, and anglers will often use them in accordance with lures and live or cut [bait](organic-baits) to enhance the smell or appearance of the bait. Some popular artificial scents and doughs include:
