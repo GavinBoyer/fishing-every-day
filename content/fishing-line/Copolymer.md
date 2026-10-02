@@ -14,7 +14,8 @@ Copolymer is the big brother to [[monofilament]]. It is made in exactly the same
 - Easy and efficient to tie knots, and cast.
 - Has an even less memory than mono.
 - More abrasion resistant than [[braid]] and still shockingly strong for its size.
-**Cons**
+
+**Cons** 
 - Copolymer does not normally float which is not inherently good or bad
 - The most major drawback with copolymer is that it is more expensive since more materials are used in its production.
 - Since it is still nylon-based, the sun and heat can damage the line very quickly.

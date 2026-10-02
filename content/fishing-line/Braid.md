@@ -14,6 +14,7 @@ Braid takes everything you know about fishing line and throws it out the window.
 - Braid is extremely strong and durable, and is easily the strongest line pound-for-pound.
 - It has zero memory which allows it to flow freely with zero kinks.
 - Enables absolute precision with a slight decrease to its shock strength
+
 **Cons**
 - Braid is extremely visible underwater, making it harder to get bites.
 - Somewhat difficult to tie [[knots]] with because they frequently slip.
