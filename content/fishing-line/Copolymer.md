@@ -1,6 +1,6 @@
 ---
 title: Copolymer
-date: 9-30-2026
+date: 10-2-2026
 ---
 # Copolymer
 ### What is Copolymer?

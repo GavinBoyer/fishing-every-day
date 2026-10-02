@@ -1,6 +1,6 @@
 ---
 title: Monofilament
-date: 9-30-2026
+date: 10-1-2026
 ---
 # Monofilament
 ### What is Monofilament?

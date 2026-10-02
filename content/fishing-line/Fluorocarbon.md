@@ -1,6 +1,6 @@
 ---
 title: Fluorocarbon
-date: 9-30-2026
+date: 10-2-2026
 ---
 # Fluorocarbon
 ### What is Fluorocarbon?
